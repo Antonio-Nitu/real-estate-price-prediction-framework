@@ -43,7 +43,7 @@ The models are evaluated on a validation set (an 80/20 split of the original tra
 
   * **Root Mean Squared Error (RMSE):** Measures the standard deviation of the prediction errors.
   * **Mean Absolute Error (MAE):** Measures the average magnitude of the errors.
-  * **R-squared ($R^2$):** Represents the proportion of the variance in the dependent variable that is predictable from the independent variables.
+  * **R-squared (R^2):** Represents the proportion of the variance in the dependent variable that is predictable from the independent variables.
 
 ### 1.4. Hyperparameter Optimization
 
